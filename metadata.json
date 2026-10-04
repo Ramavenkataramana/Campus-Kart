@@ -1,0 +1,6 @@
+{
+  "name": "CampusKart - College Student Marketplace",
+  "description": "Buy and sell used books, lab gear, calculators, and college essentials directly with campus students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
